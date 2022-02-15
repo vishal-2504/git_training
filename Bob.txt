@@ -1,2 +1,3 @@
 Hi! I am Bob. I am new here!
 Adding changes to master
+on branch rewrite_history
